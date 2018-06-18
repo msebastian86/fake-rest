@@ -1,5 +1,9 @@
-[{"id":1,"first_name":"Maritsa","last_name":"Kike","email":"mkike0@mapquest.com"},
-{"id":2,"first_name":"Emlen","last_name":"Gratrix","email":"egratrix1@oaic.gov.au"},
-{"id":3,"first_name":"Leoline","last_name":"Heinonen","email":"lheinonen2@wikispaces.com"},
-{"id":4,"first_name":"Bealle","last_name":"Arnaldo","email":"barnaldo3@nifty.com"},
-{"id":5,"first_name":"Morlee","last_name":"Biernacki","email":"mbiernacki4@accuweather.com"}]
+{
+	"profiles": [
+		{"id":1,"first_name":"Maritsa","last_name":"Kike","email":"mkike0@mapquest.com"},
+		{"id":2,"first_name":"Emlen","last_name":"Gratrix","email":"egratrix1@oaic.gov.au"},
+		{"id":3,"first_name":"Leoline","last_name":"Heinonen","email":"lheinonen2@wikispaces.com"},
+		{"id":4,"first_name":"Bealle","last_name":"Arnaldo","email":"barnaldo3@nifty.com"},
+		{"id":5,"first_name":"Morlee","last_name":"Biernacki","email":"mbiernacki4@accuweather.com"}
+	]
+}
